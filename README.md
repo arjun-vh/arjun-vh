@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @arjun-vh
+- 👋 Hi, I’m Arjun
 - 👀 I’m interested in geophysical/geodynamic/potential-field modelling/inversion 
 - 🌱 I’m currently learning python matlab & shell
 - 💞️ I’m looking to collaborate on projects that intersets me :)
