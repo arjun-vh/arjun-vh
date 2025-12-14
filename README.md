@@ -1,4 +1,4 @@
 - 👋 Hi, I’m Arjun
 - I’m interested in geoscientific modelling/inversion/software development  
 - I’m looking for collaborators and willing to collaborate on projects that interest me :)
-- How to reach me: arjunvelliyidathu@gmail.com OR whatsapp on 9497332625
+- How to reach me: arjunvelliyidathu@gmail.com 
